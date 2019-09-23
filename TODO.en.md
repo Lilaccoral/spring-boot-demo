@@ -19,7 +19,7 @@
 - [x] ~~spring-boot-demo-orm-jpa (operating SQL Relational Database - JPA)~~
 - [x] ~~spring-boot-demo-orm-mybatis (operating SQL relational database - mybatis)~~
 - [x] ~~spring-boot-demo-orm-mybatis-mapper-page (operating SQL relational database - integrating mybatis generic Mapper, PageHelper)~~
-- [x] ~~spring-boot-demo-orm-mybatis-plus (operating SQL relational database - integrating mybatis-plus)~~
+- [x] ~~spring-boot-demo-orm-mybatis-plus (operating SQL relational database - integrating mybatis-plus, Mapper, ActiveRecord)~~
 - [x] ~~spring-boot-demo-orm-beetlsql (operating SQL relational database - beetlSQL)~~
 - [x] ~~spring-boot-demo-cache-redis (using redis for caching)~~
 - [x] ~~spring-boot-demo-cache-ehcache (using Ehcache for caching)~~
@@ -64,6 +64,7 @@
 - [x] ~~spring-boot-demo-ratelimit-guava（use Guava RateLimiter to protect API by standalone rate limiting）~~
 - [ ] spring-boot-demo-ratelimit-redis（use Redis Token bucket to protect API by cluster rate limiting）
 - [ ] spring-boot-demo-https（integrated HTTPS）
+- [x] ~~spring-boot-demo-elasticsearch-rest-high-level-client（integrated Elasticsearch 7.x version，use official Rest High Level Client to operate ES data）~~
 
 ## Remarks
 
